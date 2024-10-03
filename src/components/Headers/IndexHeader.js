@@ -39,8 +39,10 @@ function IndexHeader() {
               className="n-logo"
               src={require("assets/img/now-logo.png")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSIDAD TECNOOGICA DE DURANGO</h1>
+            <h2>NOMBRE DEL ALUMNO: ARTURO GARCIA CERVANTES</h2>
+            <h3>GESTION DEL PROCESO DE SOFTWARE</h3>
+            <h4>PARCIAL 1</h4>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
