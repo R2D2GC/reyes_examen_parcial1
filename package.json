@@ -18,6 +18,7 @@
   },
   "homepage": "https://r2d2gc.github.io/reyes_examen_parcial1/",
   "scripts": {
+    "predeploy":"npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy":"gh-pages -d build",
